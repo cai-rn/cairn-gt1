@@ -2,7 +2,7 @@
 > Repo du Groupe de travail BDD &amp; référentiels du réseau CAI-RN de la MITI (CNRS)
 
 
-## Liste de diffusion
+## Liste de diffusion au GT1
 
 ### S’inscrire
 

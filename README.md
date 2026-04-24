@@ -1,5 +1,8 @@
 # cairn-gt1
-> Repo du Groupe de travail BDD &amp; référentiels du réseau CAI-RN de la MITI (CNRS)
+> _Repository_ du Groupe de travail BDD &amp; référentiels du réseau CAI-RN de la MITI (CNRS)
+
+
+(lire la suite sur le [site web du GT1](https://archeometrie.cnrs.fr/jt-atelier/bdd/))
 
 
 ## Liste de diffusion

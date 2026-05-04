@@ -5,7 +5,7 @@
 (lire la suite sur le [site web du GT1](https://archeometrie.cnrs.fr/jt-atelier/bdd/))
 
 
-## Liste de diffusion
+## Liste de diffusion au GT1
 
 ### S’inscrire
 

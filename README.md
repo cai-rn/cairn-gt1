@@ -10,7 +10,7 @@ Le groupe de travail 1 (GT1) de CAI-RN, dédié aux bases de données en archéo
 
 ## Événements
 
-- [Atelier annuel "référentiels et thésaurus en archéométrie"](talks\260906-referentiels) - en présentiel, à Lyon le 6 Novembre 2026
+- [Atelier annuel "référentiels et thésaurus en archéométrie"](talks/260906-referentiels) - en présentiel, à Lyon le 6 Novembre 2026
 
 ## Liste de diffusion au GT1
 

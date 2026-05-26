@@ -30,7 +30,7 @@ Ces corpus seront accompagnés de métadonnées documentant leur état dans le f
 La journée sera considérée comme un succès si :
 
 - Les données, métadonnées, modèles conceptuels et documentations sont structurés et publiés sur une plateforme collaborative (GitHub ou autre) en libre accès.
-- Les référentiels partagés respectent les principes FAIR (trouvables, accessibles, interopérables, réutilisables).
+- Les référentiels partagés respectent les principes FAIR[^1].
 - Les bonnes pratiques identifiées pendant l’atelier sont documentées et diffusées au sein du réseau CAI-RN.
 
 

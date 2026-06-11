@@ -1,6 +1,6 @@
 # Référentiels en archéométrie
 
-- inorganique: métaux, céramiques, pigments, lithique, verres, etc.
+- inorganique: [métaux](#m%C3%A9taux), [céramiques](#c%C3%A9ramiques), pigments, lithique, verres, etc.
 - organique: etc.
 
 ## Métaux

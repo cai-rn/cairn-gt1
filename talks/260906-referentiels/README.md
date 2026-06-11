@@ -5,7 +5,7 @@
 
 ## Résumé
 
-Cet atelier a pour objectif de définir des bonnes pratiques communes pour la gestion, l’annotation et la diffusion des données relatives aux matériaux archéologiques inorganiques et portera plus particulièrement sur les **référentiels archéométriques en métallurgie, céramologie et étude des pigments**. 
+Cet atelier a pour objectif de définir des bonnes pratiques communes pour la gestion, l’annotation et la diffusion des données relatives aux matériaux archéologiques inorganiques et portera plus particulièrement sur les **référentiels** archéométriques en **métallurgie, céramologie** et des **pigments**. 
 
 Il vise à identifier des protocoles partagés d’annotation des données et métadonnées, à recenser des ressources informatiques libres de droits et à discuter des modes de publication les plus adaptés afin de garantir l’accessibilité, l’interopérabilité et la réutilisabilité des référentiels et thésaurus spécialisés — autrement dit, leur conformité aux principes FAIR[^1].
 
@@ -15,15 +15,36 @@ Réunion en présentiel d’une journée, précédée par la mise en commun d’
 
 Ces corpus seront accompagnés de métadonnées documentant leur état dans le flux de travail (par ex. : données brutes, traitées, agrégées, etc.), leurs conditions de réutilisation (licences de type CC BY), ainsi que leur niveau de structuration.
 
-### Planning
+### Planning provisoire
 
 | Horaire | Description |
 |:--|:--|
 | **9h00** | Début de la journée |
-| **Matinée** | Trois ou quatre présentations (40–50 min + discussion) de cas d’étude par les membres du GT1 et/ou des collègues invités, afin d’identifier les besoins, difficultés et pratiques existantes[^3] |
+| **Matinée** | Présentations (30-40 min + discussion): <ul><li>Le système d'information **SIAMOIS**, Miled Rousset et Gregory Bliault[^4]</li><li>référentiel **Céramiques**, par Valérie Merle et Florent Roux[^5]</li><li>référentiel **Métaux**, par Alexandre Disser et Thomas Huet[^6]</li><li>référentiel **Pigments**, par Matthieu Lebon[^7]</li></ul> |
 | **12h30–14h00** | Déjeuner |
-| **Après-midi** | Session pratique (« *hands-on* ») centrée sur le travail collaboratif : gestion et versionnage des données avec Git, alignement des données et métadonnées sur des standards et isostandards (ontologies CRM, thésaurus AAT, métadonnées EXIF des images), ainsi qu’initiation à l’usage de logiciels libres tels que Python ou R, existants ou en développement |
+| **Après-midi** | Session pratique (« *hands-on* ») centrée sur le travail collaboratif, le versionnage, la citabilité et la réutilisabilité des référentiels |
 | **17h00** | Fin de la journée |
+
+#### Matinée
+
+Présentations (30-40 min + discussion) de cas d’étude par des membres du GT1 et/ou des collègues invités, afin d’identifier les besoins, difficultés et pratiques existantes
+
+#### Déjeuner
+
+Pris en charge par le GT1.
+
+#### Après-midi
+
+Session pratique (« *hands-on* ») : 
+- gestion et versionnage des métadonnées avec Git;
+- alignement des données et métadonnées sur des standards et isostandards (ontologies CRM, thésaurus AAT, métadonnées EXIF des images);
+- initiation à l’usage de logiciels libres,existants ou en développement, tels que Python (dont Jupyter Notebook) ou R;
+- _autres_
+
+## Requis
+
+- ordinateur personnel;
+- seuls les référenciels déposés sur le GitHub du GT1 seront utilisés dans la session de l'après-midi;
 
 ## Attendus
 
@@ -41,4 +62,7 @@ La journée sera considérée comme un succès si :
 
 [^1]: *Findable, Accessible, Interoperable, Reusable*  
 [^2]: Thésaurus, ontologies, données de matériaux de référence, règles de contribution, manuels d’utilisation logicielle, etc.
-[^3]: Si vous voulez présenter les référentiels et thésaurus avec lesquels vous travaillez durant la session du matin, n'hésitez pas à nous contacter.
+[^4]: Maison de l'Orient et de la Méditerranée
+[^5]: CNRS-ArAr
+[^6]: CNRS-IRAMAT
+[^7]: Museum National d'Histoire Naturelle

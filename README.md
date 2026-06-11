@@ -1,4 +1,4 @@
-# cairn-gt1
+# GT1 BDD
 > _Repository_ du Groupe de travail "Bases de données et référentiels" du réseau CAI-RN de la MITI (CNRS)
 
 Le groupe de travail 1 (GT1) de CAI-RN, dédié aux bases de données en archéométrie, propose une approche collective, articulée autour de quatre axes prioritaires :

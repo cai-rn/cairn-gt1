@@ -1,6 +1,6 @@
 # Référentiels et thésaurus en archéométrie (métaux, céramiques et pigments)
 
-> Atelier annuel du GT BDD de CAI-RN. **Lundi 6 novembre 2026, 9h–17h** — 📍 [Maison internationale des langues et des cultures (MILC), salle 308, Lyon](https://maps.app.goo.gl/UK5xz5Hi9reKjvQh6) — en présentiel uniquement
+> Atelier annuel du GT BDD de CAI-RN. **Vendredi 6 novembre 2026, 9h–17h** — 📍 [Maison internationale des langues et des cultures (MILC), salle 308, Lyon](https://maps.app.goo.gl/UK5xz5Hi9reKjvQh6) à proximité de la MOM — en présentiel uniquement
 
 
 ## Résumé
